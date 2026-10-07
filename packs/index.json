@@ -2,6 +2,13 @@
  "schema": 1,
  "packs": [
   {
+   "packId": "artificial-satellite-models",
+   "version": 1,
+   "distribution": "download",
+   "manifest": "artificial-satellite-models/manifest.json",
+   "sizeBytes": 287516
+  },
+  {
    "packId": "base-textures",
    "version": 3,
    "distribution": "bundled",
