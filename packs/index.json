@@ -142,6 +142,55 @@
    "sizeBytes": 2057596
   },
   {
+   "packId": "moon-apollo-a11",
+   "version": 1,
+   "distribution": "download",
+   "manifest": "moon-apollo-a11/manifest.json",
+   "sizeBytes": 1294670
+  },
+  {
+   "packId": "moon-apollo-a12",
+   "version": 1,
+   "distribution": "download",
+   "manifest": "moon-apollo-a12/manifest.json",
+   "sizeBytes": 1353351
+  },
+  {
+   "packId": "moon-apollo-a14",
+   "version": 1,
+   "distribution": "download",
+   "manifest": "moon-apollo-a14/manifest.json",
+   "sizeBytes": 1355165
+  },
+  {
+   "packId": "moon-apollo-a15",
+   "version": 1,
+   "distribution": "download",
+   "manifest": "moon-apollo-a15/manifest.json",
+   "sizeBytes": 1459495
+  },
+  {
+   "packId": "moon-apollo-a16",
+   "version": 1,
+   "distribution": "download",
+   "manifest": "moon-apollo-a16/manifest.json",
+   "sizeBytes": 1440327
+  },
+  {
+   "packId": "moon-apollo-a17",
+   "version": 1,
+   "distribution": "download",
+   "manifest": "moon-apollo-a17/manifest.json",
+   "sizeBytes": 1444242
+  },
+  {
+   "packId": "moon-surface-basic",
+   "version": 2,
+   "distribution": "download",
+   "manifest": "moon-surface-basic/manifest.json",
+   "sizeBytes": 1149076
+  },
+  {
    "packId": "moon-textures-2k",
    "version": 1,
    "distribution": "bundled",
@@ -154,6 +203,55 @@
    "distribution": "download",
    "manifest": "moon-textures-4k/manifest.json",
    "sizeBytes": 4280409
+  },
+  {
+   "packId": "obs-atlas-clusters",
+   "version": 1,
+   "distribution": "download",
+   "manifest": "obs-atlas-clusters/manifest.json",
+   "sizeBytes": 6787078
+  },
+  {
+   "packId": "obs-atlas-galaxies",
+   "version": 1,
+   "distribution": "download",
+   "manifest": "obs-atlas-galaxies/manifest.json",
+   "sizeBytes": 7021664
+  },
+  {
+   "packId": "obs-atlas-moons",
+   "version": 1,
+   "distribution": "download",
+   "manifest": "obs-atlas-moons/manifest.json",
+   "sizeBytes": 2799758
+  },
+  {
+   "packId": "obs-atlas-nebulae",
+   "version": 1,
+   "distribution": "download",
+   "manifest": "obs-atlas-nebulae/manifest.json",
+   "sizeBytes": 6718976
+  },
+  {
+   "packId": "obs-atlas-phenomena",
+   "version": 1,
+   "distribution": "download",
+   "manifest": "obs-atlas-phenomena/manifest.json",
+   "sizeBytes": 2619682
+  },
+  {
+   "packId": "obs-atlas-solar-system",
+   "version": 1,
+   "distribution": "download",
+   "manifest": "obs-atlas-solar-system/manifest.json",
+   "sizeBytes": 3578374
+  },
+  {
+   "packId": "obs-atlas-thumbs",
+   "version": 1,
+   "distribution": "bundled",
+   "manifest": "obs-atlas-thumbs/manifest.json",
+   "sizeBytes": 1808734
   },
   {
    "packId": "obs-images-basic",
