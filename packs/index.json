@@ -2,6 +2,13 @@
  "schema": 1,
  "packs": [
   {
+   "packId": "artemis2-orion",
+   "version": 1,
+   "distribution": "download",
+   "manifest": "artemis2-orion/manifest.json",
+   "sizeBytes": 1674468
+  },
+  {
    "packId": "artificial-satellite-models",
    "version": 1,
    "distribution": "download",
@@ -182,6 +189,34 @@
    "distribution": "download",
    "manifest": "moon-apollo-a17/manifest.json",
    "sizeBytes": 1444242
+  },
+  {
+   "packId": "moon-apollo-lm-interior",
+   "version": 6,
+   "distribution": "download",
+   "manifest": "moon-apollo-lm-interior/manifest.json",
+   "sizeBytes": 1849868
+  },
+  {
+   "packId": "moon-artemis-base",
+   "version": 6,
+   "distribution": "download",
+   "manifest": "moon-artemis-base/manifest.json",
+   "sizeBytes": 1324776
+  },
+  {
+   "packId": "moon-artemis-habitat",
+   "version": 3,
+   "distribution": "download",
+   "manifest": "moon-artemis-habitat/manifest.json",
+   "sizeBytes": 3074048
+  },
+  {
+   "packId": "moon-artemis-south-ridge",
+   "version": 1,
+   "distribution": "download",
+   "manifest": "moon-artemis-south-ridge/manifest.json",
+   "sizeBytes": 2722734
   },
   {
    "packId": "moon-surface-basic",
